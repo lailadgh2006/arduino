@@ -1,7 +1,7 @@
 int fsrPin = A0;   
 int fsrData = 0;
 
-const int numPoints = 5;  
+const int numPoints = 1;  
 int adcValues[numPoints]   = {0};
 float forceValues[numPoints] = {0.0}; 
 
